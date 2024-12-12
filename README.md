@@ -1,6 +1,6 @@
 # IBM-Unit-Conversion-Webpage
 
-In this lab, I creatied a simple web page Unit Converter application that converts metric units to imperial units. The page was divided into three sections, each of which did one of the following:
+In this lab, I created a simple web page Unit Converter application that converts metric units to imperial units. The page was divided into three sections, each of which did one of the following:
 
 - Converted temperature from Celsius to Fahrenheit.
 - Converted weight from Kilograms to Pounds.
